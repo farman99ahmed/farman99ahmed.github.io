@@ -186,7 +186,7 @@ body {
       padding-left: 36.8px;
     }
   }
-  @media (max-width: 400px) {
+  @media (max-width: 450px) {
     .card-image {
       width: 38% !important;
     }
